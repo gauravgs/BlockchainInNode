@@ -1,6 +1,6 @@
 # BlockchainInNode
-/**
- * STEPS TO RUN>>>>>>
+
+ ## STEPS TO RUN>>>>>>
  * >npm -v   
  * >npm install
  * >node main.js
@@ -13,4 +13,3 @@
  *  nodejs
  *  cryptojs     (SHA256)
  *  elliptic
- */
