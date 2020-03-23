@@ -1,7 +1,7 @@
 # BlockchainInNode
 /**
  * STEPS TO RUN>>>>>>
- * >npm -v    //to check whether node is installed
+ * >npm -v   
  * >npm install
  * >node main.js
  * :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
