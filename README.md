@@ -4,6 +4,9 @@
  * >npm -v   
  * >npm install
  * >node main.js
+ 
+ ### To Generate a new key pair
+ >node keygenerator.js
  * :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  * To Add more transacting parties generate their key pair and pass the ec instance to various methods
  * In the current Example,
